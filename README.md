@@ -17,6 +17,7 @@ Smooth Layout using CSS
 HTML5
 CSS3
 Git & GitHub
+
 📂 Project Structure
 MyPortfolio/
 │
@@ -24,6 +25,8 @@ MyPortfolio/
 ├── style.css
 ├── profile.jpeg
 └── README.md
+
+
 📸 Sections Included
 🏠 Home
 
